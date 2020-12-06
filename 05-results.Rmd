@@ -1,1 +1,7 @@
 # Results
+
+```{r}
+library(ggplot2)
+ggplot(mtcars, aes(disp, mpg)) + geom_point()
+```
+
