@@ -6,6 +6,15 @@ Testing:
 
 `usethis::use_github_action("bookdown.yaml")`
 
+Version: https://github.com/r-lib/actions/blob/92c6da7b47f0c1814c4d62d62a9c0f24291fe5de/examples/bookdown.yaml (2020-12-06)
+
+### What I learned
+
+**You need to rerun `renv::snapshot()` everytime you add a package to DESCRIPTION.**
+
+`brew install pandoc-citeproc` doesn't work, it's deprecated
+
+
 See instructions here:
 
 https://github.com/r-lib/actions/tree/master/examples#build-bookdown-site
