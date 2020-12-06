@@ -1,5 +1,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/3b633c91-2f94-4f36-874a-1a34c2ef2a5e/deploy-status)](https://app.netlify.com/sites/sleepy-brahmagupta-f91d4a/deploys)
 
+Published book: https://sleepy-brahmagupta-f91d4a.netlify.app/
+
 Testing:
 
 `usethis::use_github_action("bookdown.yaml")`
